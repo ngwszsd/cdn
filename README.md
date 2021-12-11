@@ -3,4 +3,4 @@
 
 ## 搭配Picgo （需要GitHub Personal access tokens）
 - [Picgo](https://github.com/Molunerfinn/PicGo/releases)
-- ![配置](https://cdn.jsdelivr.net/gh/ngwszsd/cdn/img/picgo.png)
+![配置](https://cdn.jsdelivr.net/gh/ngwszsd/cdn/img/picgo.png)
